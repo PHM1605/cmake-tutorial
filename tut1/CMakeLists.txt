@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.10.2)
 project(Trim)
 add_executable(trim main.cpp)
+add_subdirectory(external/glfw)
 install(TARGETS trim DESTINATION bin)
