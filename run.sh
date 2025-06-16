@@ -1,3 +1,3 @@
 #! /bin/sh
 
-cd tut1/build ; ./trim
+cd tut1/build ; ./OLAS
